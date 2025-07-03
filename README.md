@@ -1,7 +1,11 @@
 # 🍫 Rolling Chocolate Sales Report (Jan 2022 – Aug 2022)
 
-An interactive **Power BI dashboard** providing detailed analysis of chocolate product sales from **January to August 2022**. This report uncovers monthly performance trends, evaluates **sales representatives**, and analyzes **regional product movement** to support strategic sales and marketing decisions.
 ![Power BI Dashboard](https://github.com/aadarshjaiswalvns/Rolling-Chocolate-Sales-Report/blob/main/dashboard.png)
+
+## 📊 Project Overview
+
+An interactive **Power BI dashboard** providing detailed analysis of chocolate product sales from **January to August 2022**. This report uncovers monthly performance trends, evaluates **sales representatives**, and analyzes **regional product movement** to support strategic sales and marketing decisions.
+
 ---
 
 ## 📁 Project Files
