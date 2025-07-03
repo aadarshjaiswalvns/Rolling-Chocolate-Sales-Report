@@ -1,4 +1,4 @@
-# 🍫 Rolling Chocolate Sales Report (Jan 2022 – Aug 2022)
+# 🍫 Rolling Chocolate Sales Report
 
 ![Power BI Dashboard](https://github.com/aadarshjaiswalvns/Rolling-Chocolate-Sales-Report/blob/main/dashboard.png)
 
